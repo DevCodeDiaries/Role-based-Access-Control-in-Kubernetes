@@ -24,7 +24,9 @@ Using Role-based Access Control in Kubernetes Engine | GSP493
 </blockquote>
 
 ---
-
+# Credit
+DM for credit or removal request (no copyright intended) ©All rights and credits for the original content belong to Google Cloud Google Cloud Skill Boost website 🙏
+---
 ## 💻 Run the Script in Google Cloud Shell
 
 ```bash
