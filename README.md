@@ -32,4 +32,4 @@ curl -LO https://raw.githubusercontent.com/Techcps/Google-Cloud-Skills-Boost/mas
 sudo chmod +x techcps493.sh
 ./techcps493.sh
 ```
-#Congratulations, you're all done with the lab 😄
+## Congratulations, you're all done with the lab 😄
